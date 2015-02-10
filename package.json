@@ -1,6 +1,6 @@
 {
   "name": "jquery-postjson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Defines the jQuery postJSON function using the library jquery-json to send data",
   "main": "src/jquery.postjson.js",
   "scripts": {
