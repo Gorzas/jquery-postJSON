@@ -1,0 +1,26 @@
+{
+  "name": "jquery-postjson",
+  "version": "1.0",
+  "authors": [
+    "Gorzas"
+  ],
+  "description": "Defines the jQuery postJSON function using the library jquery-json to send data",
+  "keywords": [
+    "Javascript",
+    "JSON",
+    "jQuery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "Gruntfile.js",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "jquery-json": "~2.5.1"
+  }
+}
